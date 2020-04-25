@@ -1,0 +1,31 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Í“óŠ“.
+usquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‰öÿÿÿÿÿ8¸‹¿“.
+U
+squid:S106V"9Replace this use of System.out or System.err by a logger.(˜¯‹h8şåä“.
+Ssquid:S2209"5Change this instance-reference to a static reference.(†ßì±8á±“.
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(§ÿ¦¶8şåä“.
+n
+squid:S128+"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8öå“.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¦ŠĞ úÿÿÿÿ8—˜Ñ“.
+Msquid:S2440"*Remove this instantiation of "LinkedList".(üæ»­üÿÿÿÿ8á±“.
+Xsquid:S2209"5Change this instance-reference to a static reference.(¡ÔÓËúÿÿÿÿ8á±“.
+Ssquid:S2209"5Change this instance-reference to a static reference.(¶²§8á±“.
+U
+squid:S106""9Replace this use of System.out or System.err by a logger.(»ñ±g8•üÏ“.
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(§–åûÿÿÿÿ8şåä“.
+osquid:S001179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÔ×X8¸‹¿“.
+Ssquid:S2209"5Change this instance-reference to a static reference.(ğï¶×8á±“.
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(­«ïøÿÿÿÿ8şÒÎ“.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(•Ğİİşÿÿÿÿ8ÎÇŒ“.
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¤‚Ëã8ÚÂĞ“.
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Êì“.
+]squid:S1118^":Add a private constructor to hide the implicit public one.(ãµÃıÿÿÿÿÿ8şåä“.
+1squid:S1220""Move this file to a named package.

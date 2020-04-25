@@ -18,6 +18,7 @@ Recursive method*/
 
   Input: 1->NULL
   Output: 1->NULL*/
+import java.util.*;
 
 public class ReverseLinkedList extends LinkedList {
 
@@ -91,7 +92,7 @@ public class ReverseLinkedList extends LinkedList {
   }
 }
 
-class LinkedList {
+class  LinkedList {
 
   static Node head;
 
